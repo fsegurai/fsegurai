@@ -32,6 +32,6 @@ jobs:
           MAP_LAT: ${{secrets.MAP_LAT}}
           MAP_LON: ${{secrets.MAP_LON}}
       - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
+        uses: mikeal/publish-to-github-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

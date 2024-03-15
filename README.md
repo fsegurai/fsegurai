@@ -41,7 +41,7 @@ Currently, the weather is: <b> 25°C, <i>scattered clouds</i></b></br>Today, the
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, March 15 at 2:25 PM CST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 4 hours</b>!</br>Last refresh: Friday, March 15 at 2:25 PM CST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/><a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
 <img alt="Badges" src="https://img.shields.io/badge/badges-orange"/>
 </a></p>

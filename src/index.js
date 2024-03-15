@@ -19,6 +19,7 @@ let DATA = {
     minute: 'numeric',
     timeZoneName: 'short',
     timeZone: 'America/Costa_Rica',
+    hour12: false,
   }),
 };
 
@@ -35,11 +36,13 @@ async function setWeatherInformation() {
         hour: '2-digit',
         minute: '2-digit',
         timeZone: 'America/Costa_Rica',
+        hour12: false,
       });
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
         hour: '2-digit',
         minute: '2-digit',
         timeZone: 'America/Costa_Rica',
+        hour12: false,
       });
     });
 }

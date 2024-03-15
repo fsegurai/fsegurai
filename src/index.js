@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 import mustache from 'mustache';
 import fetch from 'node-fetch';
 import { readFile, writeFileSync } from 'fs';
-import puppeteerService from './services/puppeteer.service.js';
+import puppeteerService from '../services/puppeteer.service.js';
 
 dotenv.config();
 

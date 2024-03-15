@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "update-readme": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,13 +13,14 @@
     "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
   },
   "keywords": [
-    "readme.md",
-    "github",
+    "readme",
+    "github profile",
+    "github readme",
     "actions",
     "dynamic",
     "javascript"
   ],
-  "author": "fsegurai",
+  "author": "fsegurai <fabiansegu@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fsegurai/fsegurai/issues"

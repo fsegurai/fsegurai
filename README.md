@@ -32,7 +32,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-Currently, the weather is: <b> 25°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>05:42 AM</b> and sets at <b>05:47 PM</b>.</p>
+Currently, the weather is: <b> 25°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>05:42</b> and sets at <b>17:47</b>.</p>
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/fsegurai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 

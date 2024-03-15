@@ -29,6 +29,8 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+          MAP_LAT: ${{secrets.MAP_LAT}}
+          MAP_LON: ${{secrets.MAP_LON}}
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:

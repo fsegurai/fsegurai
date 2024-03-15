@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Fabián, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>San José, Costa Rica</b>
 <h3>Things I code with</h3>
 <p>
@@ -33,6 +32,7 @@
 </p>
 
 Currently, the weather is: <b> 26°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>05:42</b> and sets at <b>17:47</b>.</p>
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/fsegurai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -40,10 +40,18 @@ Currently, the weather is: <b> 26°C, <i>scattered clouds</i></b></br>Today, the
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 4 hours</b>!</br>Last refresh: Friday, March 15 at 14:40 CST<br />
-Create your own by forking my repo!</p>
-<p align="center"><img src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> <img alt="Stars" src="https://img.shields.io/github/stars/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/><a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-<img alt="Badges" src="https://img.shields.io/badge/badges-orange"/>
-</a></p>
+---
 
+<p align="center">
+    This <i>README</i> file is generated <b>every 4 hours</b>!</br>
+    Last refresh: Friday, March 15 at 14:40 CST<br />
+    Create your own by forking my repo!
+</p>
+<p align="center">
+    <img src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/>
+    <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+        <img alt="Badges" src="https://img.shields.io/badge/badges-orange"/>
+    </a>
+</p>

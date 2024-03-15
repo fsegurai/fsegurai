@@ -41,19 +41,9 @@ Currently, the weather is: <b> 26°C, <i>scattered clouds</i></b></br>Today, the
 </p>
 
 ------------
-<<<<<<< HEAD
-
-<p align="center">This <i>README</i> file is generated <b>every 4 hours</b>!</br>Last refresh: Friday, March 15 at 2:25 PM CST<br />
+<p align="center">This <i>README</i> file is generated <b>every 4 hours</b>!</br>Last refresh: Friday, March 15 at 14:40 CST<br />
 Create your own by forking my repo!</p>
 <p align="center"><img src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> <img alt="Stars" src="https://img.shields.io/github/stars/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/><a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-=======
-<p align="center">This <i>README</i> file is generated <b>every 4 hours</b>!</br>Last refresh: Friday, March 15 at 14:31 CST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/><a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-=======
-<p align="center">This <i>README</i> file is generated <b>every 4 hours</b>!</br>Last refresh: Friday, March 15 at 14:38 CST<br />
-Create your own by forking my repo!</p>
-<p align="center"><img src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> <img alt="Stars" src="https://img.shields.io/github/stars/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/><a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
->>>>>>> 1f91a8109e6684381c2d469cc7e7317a5c546568
 <img alt="Badges" src="https://img.shields.io/badge/badges-orange"/>
 </a></p>
 

@@ -1,10 +1,10 @@
-const puppeteer = require('puppeteer');
+import { launch } from 'puppeteer';
 class PuppeteerService {
   browser;
   page;
 
   async init() {
-    this.browser = await puppeteer.launch({
+    this.browser = await launch({
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
@@ -40,11 +40,15 @@ class PuppeteerService {
   }
 
   async close() {
-    await this.page.close();
-    await this.browser.close();
+    if (this.page) {
+      await this.page.close();
+    }
+    if (this.browser) {
+      await this.browser.close();
+    }
   }
 }
 
 const puppeteerService = new PuppeteerService();
 
-module.exports = puppeteerService;
+export default puppeteerService;

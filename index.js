@@ -1,8 +1,12 @@
-require('dotenv').config();
-const Mustache = require('mustache');
-const fetch = require('node-fetch');
-const fs = require('fs');
-const puppeteerService = require('./services/puppeteer.service');
+import dotenv from 'dotenv';
+import mustache from 'mustache';
+import fetch from 'node-fetch';
+import { readFile, writeFileSync } from 'fs';
+import puppeteerService from './services/puppeteer.service.js';
+
+dotenv.config();
+
+const { OPEN_WEATHER_MAP_KEY, MAP_LAT, MAP_LON, MAP_PART_EXCLUDE } = process.env;
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -20,7 +24,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?lat=${MAP_LAT}&lon=${MAP_LON}&appid=${OPEN_WEATHER_MAP_KEY}&units=metric`
   )
     .then(r => r.json())
     .then(r => {
@@ -41,10 +45,10 @@ async function setWeatherInformation() {
 }
 
 async function generateReadMe() {
-  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+  await readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
+    const output = mustache.render(data.toString(), DATA);
+    writeFileSync('README.md', output);
   });
 }
 

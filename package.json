@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,16 +18,16 @@
     "dynamic",
     "javascript"
   ],
-  "author": "Thomas Guibert",
+  "author": "fsegurai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
+    "url": "https://github.com/fsegurai/fsegurai/issues"
   },
-  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
+  "homepage": "https://github.com/fsegurai/fsegurai#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.5.0"
   }
 }

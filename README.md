@@ -42,8 +42,7 @@ Currently, the weather is: <b> 21°C, <i>broken clouds</i></b></br>Today, the su
 
 ------------
 <p align="center">
-    This <i>README</i> file is generated <b>every 4 hours</b>!</br>
-    Last refresh: Friday, March 15 at 18:54 CST<br />
+    Last refresh: Friday, March 15 at 18:55 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

@@ -42,7 +42,7 @@ Currently, the weather is: <b> 20°C, <i>fog</i></b></br>Today, the sun rises at
 
 ------------
 <p align="center">
-    Last refresh: Thursday, March 28 at 02:19 CST<br />
+    Last refresh: Thursday, March 28 at 06:30 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

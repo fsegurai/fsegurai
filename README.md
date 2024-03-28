@@ -1,7 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<div style="display: flex; justify-content: center; margin: 1rem 0">
+    <img src="https://github.com/fsegurai.png" alt="fsegurai profile picture" width="300" height="300" style="border-radius: 50%">
+</div>
 
-<p>Welcome to my page! </br> I'm Fabián, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>San José, Costa Rica</b>
+<div style="display: flex; justify-content: center; margin: 1rem 0; text-align: center">
+    <p>Welcome to my page! </br> I'm Fabián, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>San José, Costa Rica</b>
+</div>
+
 <h3>Things I code with</h3>
 <p>
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />

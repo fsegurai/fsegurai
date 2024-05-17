@@ -37,7 +37,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-Currently, the weather is: <b> 21°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:15</b> and sets at <b>17:50</b>.</p>
+Currently, the weather is: <b> 21°C, <i>mist</i></b></br>Today, the sun rises at <b>05:15</b> and sets at <b>17:50</b>.</p>
 ### Where to find me
 <p>
 <a href="https://github.com/fsegurai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -47,7 +47,7 @@ Currently, the weather is: <b> 21°C, <i>broken clouds</i></b></br>Today, the su
 
 ------------
 <p align="center">
-    Last refresh: Thursday, May 16 at 14:17 CST<br />
+    Last refresh: Thursday, May 16 at 19:13 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

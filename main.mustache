@@ -3,7 +3,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/fsegurai.png" alt="fsegurai profile picture" style="border-radius: 50%;"/>
    <h3 align="center">
-        I'm Fabián, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>Costa Rica</b>
+        I'm Fabián, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>Costa Rica</b>
    </h3>
 </p>
 

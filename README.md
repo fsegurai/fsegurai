@@ -47,7 +47,7 @@ Currently, the weather is: <b> 20°C, <i>few clouds</i></b></br>Today, the sun r
 
 ------------
 <p align="center">
-    Last refresh: Monday, July 15 at 19:20 CST<br />
+    Last refresh: Monday, July 15 at 22:21 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

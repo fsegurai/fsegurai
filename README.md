@@ -34,7 +34,7 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="	https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 <img alt="GitLab" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 

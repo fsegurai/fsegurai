@@ -48,11 +48,11 @@ Currently, the weather is: <b> 22°C, <i>few clouds</i></b></br>Today, the sun r
 
 ------------
 <p align="center">
-    Last refresh: Wednesday, October 23 at 08:34 CST<br />
+    Last refresh: Wednesday, October 23 at 08:37 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">
-    <img src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> 
+    <img alt="Build Status src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> 
     <img alt="Stars" src="https://img.shields.io/github/stars/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/>
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">

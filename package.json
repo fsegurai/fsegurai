@@ -1,7 +1,7 @@
 {
   "name": "thmsgbrt",
   "version": "1.0.0",
-  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "description": "A dynamic README.md for my GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -30,6 +30,6 @@
     "dotenv": "^16.4.5",
     "mustache": "^4.2.0",
     "node-fetch": "^3.3.2",
-    "puppeteer": "^23.5.0"
+    "puppeteer": "^23.6.0"
   }
 }

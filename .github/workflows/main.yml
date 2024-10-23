@@ -8,31 +8,35 @@ on:
   workflow_dispatch:
   
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    environment: FSI_DEP_Profile
     steps:
       - name: checkout
         uses: actions/checkout@v4
+
       - name: setup node
         uses: actions/setup-node@v4
         with:
-          node-version: '20.x'
+          node-version: ${{ vars.NODE_VERSION }}
+
       - name: Install dependencies
         run: npm install
+
       - name: Generate README file
         run: npm run update-readme
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-          MAP_LAT: ${{secrets.MAP_LAT}}
-          MAP_LON: ${{secrets.MAP_LON}}
+          MAP_LAT: ${{vars.MAP_LAT}}
+          MAP_LON: ${{vars.MAP_LON}}
+
       - name: Push new README.md
         run: |
-          git config user.name fsegurai
-          git config user.email fabiansegu@gmail.com
+          git config user.name ${{vars.COMMIT_NAME}}
+          git config user.email ${{secrets.COMMIT_EMAIL}}
           git add README.md package-lock.json
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
           git push origin main

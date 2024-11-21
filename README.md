@@ -38,7 +38,8 @@
 <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
-Currently, the weather is: <b> 23°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:33</b> and sets at <b>17:11</b>.</p>
+Currently, the weather is: <b> 24°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:33</b> and sets at <b>17:11</b>.</p>
+
 ### Where to find me
 <p>
 <a href="https://github.com/fsegurai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -48,11 +49,13 @@ Currently, the weather is: <b> 23°C, <i>broken clouds</i></b></br>Today, the su
 
 ------------
 <p align="center">
-    Last refresh: Thursday, November 21 at 12:30 CST<br />
+    Last refresh: Thursday, November 21 at 13:14 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">
-    <img alt="Build Status src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> 
+    <a href="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml" target="_blank">
+        <img alt="Build Status" src="https://github.com/fsegurai/fsegurai/actions/workflows/main.yml/badge.svg?branch=main" /> 
+    </a>
     <img alt="Stars" src="https://img.shields.io/github/stars/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/fsegurai/fsegurai?style=flat-square&labelColor=343b41"/>
     <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">

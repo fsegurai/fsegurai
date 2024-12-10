@@ -4,13 +4,17 @@
   "description": "A dynamic README.md for my GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "update-readme": "node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "license": "ISC",
+  "author": {
+    "name": "Fabián Segura <fabiansegu@gmail.com>",
+    "url": "https://www.fsegurai.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+    "url": "git+https://github.com/fsegurai/fsegurai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fsegurai/fsegurai/issues"
   },
   "keywords": [
     "readme",
@@ -18,12 +22,15 @@
     "github readme",
     "actions",
     "dynamic",
-    "javascript"
+    "javascript",
+    "fsegura"
   ],
-  "author": "fsegurai <fabiansegu@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fsegurai/fsegurai/issues"
+  "engines": {
+    "bun": ">= 1.0.0 < 2.0.0"
+  },
+  "scripts": {
+    "update-readme": "bun src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/fsegurai/fsegurai#readme",
   "dependencies": {

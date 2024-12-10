@@ -1,4 +1,5 @@
 import { launch } from 'puppeteer';
+
 class PuppeteerService {
   browser;
   page;

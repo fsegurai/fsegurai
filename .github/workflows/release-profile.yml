@@ -2,7 +2,7 @@ name: README build
 
 on:
   push:
-    branches: ['main']
+    branches: [ 'main' ]
   workflow_dispatch:
 
   schedule:
@@ -20,16 +20,16 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
-      - name: setup node
-        uses: actions/setup-node@v4
+      - name: Set up Bun - Version ${{ vars.BUN_VERSION }}
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: ${{ vars.NODE_VERSION }}
+          bun-version: ${{ vars.BUN_VERSION }}
 
       - name: Install dependencies
-        run: npm install
+        run: bun install
 
       - name: Generate README file
-        run: npm run update-readme
+        run: bun run update-readme
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
           MAP_LAT: ${{vars.MAP_LAT}}

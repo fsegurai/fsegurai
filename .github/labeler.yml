@@ -1,0 +1,38 @@
+infra:
+  - changed-files:
+      - any-glob-to-any-file: [
+        '.github/**',
+        'package*.json',
+        'tsconfig*.json',
+        'eslint*.json',
+      ]
+
+dependencies:
+  - changed-files:
+      - any-glob-to-any-file: [
+        'package-lock.json',
+        'yarn.lock',
+        'bun.lockb'
+      ]
+
+ci-cd:
+  - changed-files:
+      - any-glob-to-any-file: [
+        '.github/workflows/**',
+        'Dockerfile',
+        'Jenkinsfile',
+      ]
+
+profile-src:
+  - changed-files:
+      - any-glob-to-any-file: [
+        'services/**',
+        'src/**',
+      ]
+
+profile-presentation:
+  - changed-files:
+      - any-glob-to-any-file: [
+        'main.mustache',
+        'README.md',
+      ]

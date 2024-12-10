@@ -1,0 +1,17 @@
+infra:
+  - fsegurai
+
+dependencies:
+  - fsegurai
+
+ci-cd:
+  - fsegurai
+
+profile-src:
+  - fsegurai
+
+profile-presentation:
+  - fsegurai
+
+default:
+  - '@developers'

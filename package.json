@@ -34,9 +34,9 @@
   },
   "homepage": "https://github.com/fsegurai/fsegurai#readme",
   "dependencies": {
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "mustache": "^4.2.0",
     "node-fetch": "^3.3.2",
-    "puppeteer": "^23.9.0"
+    "puppeteer": "^23.10.2"
   }
 }

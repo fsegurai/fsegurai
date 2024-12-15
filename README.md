@@ -48,7 +48,7 @@ Currently, the weather is: <b> 18°C, <i>scattered clouds</i></b></br>Today, the
 
 ------------
 <p align="center">
-    Last refresh: Sunday, December 15 at 00:28 CST<br />
+    Last refresh: Sunday, December 15 at 06:38 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

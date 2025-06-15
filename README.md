@@ -48,7 +48,7 @@ Currently, the weather is: <b> 19°C, <i>broken clouds</i></b></br>Today, the su
 
 ------------
 <p align="center">
-    Last refresh: Sunday, June 15 at 00:30 CST<br />
+    Last refresh: Sunday, June 15 at 06:41 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

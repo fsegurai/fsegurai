@@ -38,7 +38,7 @@
 <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
-Currently, the weather is: <b> 20°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:24</b> and sets at <b>17:17</b>.</p>
+Currently, the weather is: <b> 18°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>05:24</b> and sets at <b>17:16</b>.</p>
 ### Where to find me
 <p>
 <a href="https://github.com/fsegurai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -48,7 +48,7 @@ Currently, the weather is: <b> 20°C, <i>broken clouds</i></b></br>Today, the su
 
 ------------
 <p align="center">
-    Last refresh: Sunday, October 19 at 19:51 CST<br />
+    Last refresh: Monday, October 20 at 00:33 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">

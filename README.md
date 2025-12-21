@@ -48,7 +48,7 @@ Currently, the weather is: <b> 18°C, <i>clear sky</i></b></br>Today, the sun ri
 
 ------------
 <p align="center">
-    Last refresh: Sunday, December 21 at 00:34 CST<br />
+    Last refresh: Sunday, December 21 at 06:45 CST<br />
     Create your own by forking my repo!
 </p>
 <p align="center">
